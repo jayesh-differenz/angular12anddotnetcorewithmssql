@@ -30,3 +30,14 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+
+Frontend/myAng12App-Working/.angular/cache/
+# dependencies
+Frontend/myAng12App-Working/node_modules/
+
+# IDE - VSCode
+Frontend/myAng12App-Working/.vscode/*
+!Frontend/myAng12App-Working/.vscode/settings.json
+!Frontend/myAng12App-Working/.vscode/tasks.json
+!Frontend/myAng12App-Working/.vscode/launch.json
+!Frontend/myAng12App-Working/.vscode/extensions.json
